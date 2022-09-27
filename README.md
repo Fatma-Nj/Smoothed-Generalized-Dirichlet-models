@@ -5,5 +5,6 @@ Fatma Najar and Nizar Bouguila, "Smoothed Generalized Dirichlet: a novel count d
 This repository include python files for 4 models:
 - Smoothed Generalized Dirichlet mixture model
 - Smoothed Generalized Dirichlet agglomerative clustering (with different geometrical distances)
-- Smoothed Generalized Dirichlet multinomial
-- Smoothed Dirichlet multinomial
+- Smoothed Generalized Dirichlet multinomial (SGDM)
+- Taylor Approximation to SGDM
+
